@@ -18,3 +18,4 @@ Keep the mappings in mappings folder and stat files in stat folder
 You will need to readjust the directories accordingly
 
 Use the data.txt to generate fasttext embeddings
+data.txt contains the playlist names
